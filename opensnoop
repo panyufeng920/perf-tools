@@ -1,4 +1,3 @@
-#
 #!/bin/bash
 #
 # opensnoop - trace open() syscalls with file details.
